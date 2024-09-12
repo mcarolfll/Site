@@ -4,17 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Inicio</title>
+    <title>Setembro Amarelo</title>
 </head>
 <body>
- <div>  
+
+<div>  
 <h1>Bem vindo</h1>
 
 <nav class="menu">
 <a href="index.html">Setembro Amarelo</a>
-<a href="outubro.html" target="_blank">Outubro Rosa</a>
-<a href="novembro.html" target="_blank">Novembro Azul</a>
-<a href="contato.html" target="_blank">Contato</a>
+<a href="outubro.html" class="rosa" >Outubro Rosa</a>
+<a href="novembro.html" class="azul">Novembro Azul</a>
+<a href="contato.html">Contato</a>
 </nav><br>
 </div>
 
@@ -39,11 +40,15 @@
 </div>
 
 
-
+<img class="set" src="BANNER_SETEMBRO_AMARELO.png">
 
 <footer>
     <p>2024 | (81) 99999-9999 | @setembro | setembro@gmail.com </p>
 </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
 
     <script src="script.js"></script>
 </body>
