@@ -1,0 +1,11 @@
+function Calcular() {
+    let prod = document.querySelector("#prod").value;
+    let vr = document.querySelector("#vr").value;
+    let qtd = document.querySelector("#qtd").value;
+  
+    let total = qtd * vr;
+
+    document.querySelector("#vlprod").innerHTML=`O valor total é: ${total} o produto desejado foi: ${prod}`
+
+  }
+  
