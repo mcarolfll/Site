@@ -40,4 +40,14 @@ margin-left: 1px;
 border: 2px solid #c2c2c2;
 width: 100%;
 padding: 8px;
+} 
+
+nav{
+margin-top: -50px;
+margin-left: 50px;
+}
+
+a{
+color: white;
+text-decoration: none;
 }
