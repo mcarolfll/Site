@@ -9,23 +9,6 @@ function Calcular() {
    
     document.querySelector("#vlprod").innerHTML=`O valor total é: ${total} o produto desejado foi: ${prod} O formato de pagamento foi: ${pagamento}`
 
-     switch (Produto) {
-    case "Debito":
-        console.log("o pagamento é em debito");
-        break;
-
-    case "Credito":
-        console.log("o pagamento é credito");
-        break;
-
-    case "Pix":
-        console.log("o pagamento é em pix");
-        break;
-
-    default:
-        console.log("não temos essa forma de pagamento");
-        break;
-     }
-        
   }
   
+
