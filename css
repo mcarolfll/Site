@@ -1,3 +1,5 @@
+//inicio
+
 body{
 background-color: rgb(247, 241, 235);
 
@@ -51,3 +53,29 @@ a{
 color: white;
 text-decoration: none;
 }
+
+
+
+//produto.css
+
+body{
+    background-color: rgb(247, 241, 235);
+    
+    }
+
+    h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: darkred;
+    }
+
+    nav{
+        margin-top: -50px;
+        margin-left: 50px;
+        
+        }
+        
+        a{
+            color: white;
+            text-decoration: none;
+        }
